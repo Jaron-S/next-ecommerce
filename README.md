@@ -21,7 +21,7 @@ Experience the app in action by visiting [Fusion Design Ecommerce](https://fusio
 
 This project utilizes key technologies to ensure a responsive, efficient, and visually appealing user experience:
 
-- **Next.js 13**: The latest version of the React framework, enabling advanced features like file-system-based routing and server-side rendering for faster page loads and improved SEO.
+- **Next.js 14**: The latest version of the React framework, enabling advanced features like file-system-based routing and server-side rendering for faster page loads and improved SEO.
 - **Framer Motion**: A library that brings powerful animation capabilities to React, enhancing the app's interactivity and visual feedback.
 - **Tailwind CSS with DaisyUI**: A utility-first CSS framework paired with DaisyUI for rapid UI development, offering extensive customization and a wide range of pre-designed components.
 - **@mui/material**: A comprehensive suite of React components that implement Google's Material Design for a polished and cohesive look.
